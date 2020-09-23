@@ -1,0 +1,19 @@
+{
+  "name": "su2j-filesharing",
+  "version": "1.0.0",
+  "description": "File sharing application for Step Up to Justice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LawJolla/su2j-filesharing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LawJolla/su2j-filesharing/issues"
+  },
+  "homepage": "https://github.com/LawJolla/su2j-filesharing#readme"
+}
